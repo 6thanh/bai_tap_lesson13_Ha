@@ -1,0 +1,29 @@
+#all {
+	width: 1000px;
+	height: 400px;
+	margin: auto;
+}
+.hang {
+	width: 1000px;
+	height: 200px;
+}
+div div div {
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.do {
+	background: red;
+}
+.vang {
+	background: yellow;
+}
+.xanhla {
+	background: green;
+}
+.xanh {
+	background: blue;
+}
+.tim {
+	background: violet;
+}
