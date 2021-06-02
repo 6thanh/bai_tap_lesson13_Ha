@@ -1,0 +1,108 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	width: 1900px;
+	height: 1300px;
+	background-color: white;
+	margin: auto;
+}
+p {
+	font-family: arial, helvetica, sans-serif;
+	font-size: 45px;
+	float: left;
+	margin-top: -45px;
+}
+#hinh1, #hinh2, #hinh3 {
+	border: 10px double brown;
+	background-color: inherit;
+	margin: auto;
+	padding: 50px;
+	float: left;
+}
+#hinh1 {
+	width: 1100px;
+	height: 700px;
+}
+#hinh2 {
+	width: 1100px;
+	height: 500px;
+}
+#hinh3 {
+	width: 800px;
+	height: 1000px;
+	margin-top: -700px;
+}
+.hang1 {
+	width: 600px;
+	height: 200px;
+	margin: auto;
+}
+.xam1,.xam2,.xam3,.red, .yellow,.green,.blue,.violet {
+	width: 200px;
+	height: 200px;
+}
+.xam1, .xam2, .xam3 {
+	background: grey;
+}
+.xam1 {
+	float:left;
+}
+.xam2 {
+	float:right;
+}
+.xam3 {
+	margin-left: 200px;
+}
+.hang2 {
+	width: 1000px;
+	height: 200px;
+}
+.yellow,.violet,.blue, .green {
+	float: left;
+	margin-left: 200px;
+}
+.red {
+	background: red;
+	float: left;
+}
+.yellow {
+	background: yellow;
+}	
+.green {
+	background: green;
+}
+.blue {
+	background: blue;
+}
+.violet {
+	background: violet;
+}
+.dong1,.dong2,.dong3 {
+	height: 280px;
+	margin: auto;
+}
+.dong1 {
+	width: 210px;
+}
+.dong2 {
+	width: 350px;
+}
+.dong3 {
+	width: 490px;
+}
+.red1,.red2,.red3 {
+	height: 70px;
+	background: red;
+}
+.grey1,.grey2 {
+	width: 70px;
+	height: 210px;
+	background: grey;
+}
+.grey1 {
+	float: left;
+}
+.grey2 {
+	float: right;
+}
